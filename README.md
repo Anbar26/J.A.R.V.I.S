@@ -157,11 +157,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-**Arhaan Girdhar** - [GitHub](https://github.com/17arhaan)
+**Anbar Althaf** - [GitHub](https://github.com/Anbar26)
 
 ## Contact
 
-For any queries, reach out via the repository at [J.A.R.V.I.S GitHub](https://github.com/17arhaan/J.A.R.V.I.S) or open an issue.
+For any queries, reach out via the repository at [J.A.R.V.I.S GitHub](https://github.com/Anbar26/J.A.R.V.I.S) or open an issue.
 
 ## Acknowledgments
 
