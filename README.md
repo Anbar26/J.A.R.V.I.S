@@ -97,7 +97,7 @@ J.A.R.V.I.S/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/17arhaan/J.A.R.V.I.S.git
+git clone https://github.com/Anbar26/J.A.R.V.I.S.git
 cd J.A.R.V.I.S
 ```
 
